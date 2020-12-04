@@ -21,11 +21,11 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Start your new documentation project by forking this repository
 logo: Doc Starter
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://df2k2.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-githuburl: https://github.com/magento-devdocs/doc-starter/
+githuburl: https://github.com/df2k2/doc-starter/
 theme: devdocs
 # permalink: pretty # This will generate links o
 source: src
